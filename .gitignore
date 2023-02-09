@@ -132,3 +132,5 @@ dmypy.json
 git rm -rf <PATH>
 
 **/__pycache__/
+
+git rm --cached */__pycache__/*
