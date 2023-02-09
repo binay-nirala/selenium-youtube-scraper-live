@@ -130,3 +130,5 @@ dmypy.json
 
 # New file 
 git rm -rf <PATH>
+
+**/__pycache__/
